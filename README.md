@@ -23,4 +23,4 @@ npm start
 npm run build
 ```
 
-[View the App Live](react-task-tracker2.netlify.app)
+[View the App Live](https://react-task-tracker2.netlify.app)
